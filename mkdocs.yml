@@ -7,6 +7,8 @@ site_description: Internal clan documentation
 theme:
   name: material
   language: ru
+  features:
+    - navigation.indexes
   palette:
     scheme: slate
 
@@ -24,17 +26,17 @@ nav:
       - Журнал изменений по результатам проверки: 00-implementation/03_CHANGELOG_0.1_REVIEW.md
 
   - Устав:
-      - О разделе: 01-charter/00_README.md
+      - 01-charter/index.md
       - Устав клана: 01-charter/01_CLAN_CHARTER.md
 
   - Организация:
-      - О разделе: 02-organization/00_README.md
+      - 02-organization/index.md
       - Структура клана: 02-organization/01_CLAN_STRUCTURE.md
       - Роли и обязанности: 02-organization/02_ROLES_AND_RESPONSIBILITIES.md
       - Состав и ротация: 02-organization/03_ROSTER_AND_ROTATION.md
 
   - SOP:
-      - О разделе: 03-sop/00_README.md
+      - 03-sop/index.md
       - Коммуникация: 03-sop/SOP-001_COMMUNICATION_PROTOCOL.md
       - Подготовка к матчу: 03-sop/SOP-002_MATCH_START_PROTOCOL.md
       - Работа с точками: 03-sop/SOP-003_POINT_CONTROL_PROTOCOL.md
@@ -42,23 +44,23 @@ nav:
       - Работа ралик-отряда: 03-sop/SOP-005_RALLY_PROTOCOL.md
 
   - Руководства:
-      - О разделе: 04-guides/00_README.md
+      - 04-guides/index.md
 
   - Обучение:
-      - О разделе: 05-training/00_README.md
+      - 05-training/index.md
       - План тренировок: 05-training/01_TRAINING_PLAN_PHASE_1.md
       - Руководство мастера: 05-training/02_MASTER_PLAYER_GUIDE.md
       - Руководство напарника мастера: 05-training/03_MASTER_PARTNER_GUIDE.md
 
   - Анализ:
-      - О разделе: 06-analysis/00_README.md
+      - 06-analysis/index.md
       - Разбор после матча (AAR): 06-analysis/01_AFTER_ACTION_REVIEW.md
 
   - Межсезонье:
-      - О разделе: 07-offseason/00_README.md
+      - 07-offseason/index.md
 
   - Приложения:
-      - О разделе: 08-appendix/00_README.md
+      - 08-appendix/index.md
 
   - Аудит:
       - Аудит версии 0.1: reviews/AUDIT_0.1.md
