@@ -1,0 +1,35 @@
+site_name: STALZONE Clan Playbook
+
+site_description: Internal clan documentation
+
+theme:
+  name: material
+  language: ru
+  palette:
+    scheme: slate
+
+plugins:
+  - search
+
+docs_dir: docs
+
+nav:
+  - Главная: 00_README.md
+
+  - Организация:
+      - Устав: 01-charter/01_CLAN_CHARTER.md
+      - Структура: 02-organization/01_CLAN_STRUCTURE.md
+      - Роли: 02-organization/02_ROLES_AND_RESPONSIBILITIES.md
+
+  - SOP:
+      - Коммуникация: 03-sop/SOP-001_COMMUNICATION_PROTOCOL.md
+      - Начало матча: 03-sop/SOP-002_MATCH_START_PROTOCOL.md
+      - Работа с точками: 03-sop/SOP-003_POINT_CONTROL_PROTOCOL.md
+      - Усиление: 03-sop/SOP-004_REINFORCEMENT_PROTOCOL.md
+
+  - Обучение:
+      - План тренировок: 05-training/01_TRAINING_PLAN_PHASE_1.md
+      - AAR: 06-analysis/01_AFTER_ACTION_REVIEW.md
+
+  - Внедрение:
+      - План: 00-implementation/01_IMPLEMENTATION_PLAN.md
