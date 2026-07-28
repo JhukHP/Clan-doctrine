@@ -41,11 +41,6 @@
 
 ## Связанные разделы
 
-Организация:
-`../02-organization/`
-
-Руководства:
-`../04-guides/`
-
-Анализ:
-`../06-analysis/`
+- [Организация](../02-organization/index.md)
+- [Руководства](../04-guides/index.md)
+- [Анализ](../06-analysis/index.md)
