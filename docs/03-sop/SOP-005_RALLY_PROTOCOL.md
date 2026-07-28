@@ -196,10 +196,10 @@
 
 # Связанные документы
 
-- SOP-001 Протокол коммуникации
-- SOP-003 Работа с точками
-- SOP-004 Усиление точки
-- Структура клана
+- [SOP-001 — Протокол коммуникации](SOP-001_COMMUNICATION_PROTOCOL.md)
+- [SOP-003 — Работа с точками](SOP-003_POINT_CONTROL_PROTOCOL.md)
+- [SOP-004 — Усиление точки](SOP-004_REINFORCEMENT_PROTOCOL.md)
+- [Структура клана](../02-organization/01_CLAN_STRUCTURE.md)
 
 ---
 

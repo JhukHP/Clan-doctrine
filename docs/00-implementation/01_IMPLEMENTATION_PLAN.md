@@ -334,10 +334,10 @@
 
 # Связанные документы
 
-- Устав клана
-- Структура клана
-- План тренировок
-- AAR
+- [Устав клана](../01-charter/01_CLAN_CHARTER.md)
+- [Структура клана](../02-organization/01_CLAN_STRUCTURE.md)
+- [План тренировок](../05-training/01_TRAINING_PLAN_PHASE_1.md)
+- [Разбор после матча (AAR)](../06-analysis/01_AFTER_ACTION_REVIEW.md)
 
 ---
 

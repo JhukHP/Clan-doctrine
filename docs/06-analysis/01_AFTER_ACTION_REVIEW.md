@@ -304,10 +304,10 @@ AAR состоит из четырех вопросов:
 
 # Связанные документы
 
-- План тренировок
-- SOP коммуникации
-- Роли и обязанности
-- Структура клана
+- [План тренировок](../05-training/01_TRAINING_PLAN_PHASE_1.md)
+- [SOP-001 — Протокол коммуникации](../03-sop/SOP-001_COMMUNICATION_PROTOCOL.md)
+- [Роли и обязанности](../02-organization/02_ROLES_AND_RESPONSIBILITIES.md)
+- [Структура клана](../02-organization/01_CLAN_STRUCTURE.md)
 
 ---
 

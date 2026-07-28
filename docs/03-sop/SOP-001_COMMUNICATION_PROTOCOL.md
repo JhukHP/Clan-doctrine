@@ -242,10 +242,10 @@
 
 # Связанные документы
 
-- Структура клана
-- Роли и обязанности
-- SOP выполнения задач
-- AAR
+- [Структура клана](../02-organization/01_CLAN_STRUCTURE.md)
+- [Роли и обязанности](../02-organization/02_ROLES_AND_RESPONSIBILITIES.md)
+- SOP выполнения задач — **ASSUMPTION:** отдельный документ пока не создан.
+- [Разбор после матча (AAR)](../06-analysis/01_AFTER_ACTION_REVIEW.md)
 
 ---
 
