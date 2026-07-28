@@ -18,20 +18,47 @@ docs_dir: docs
 nav:
   - Главная: 00_README.md
 
+  - Внедрение:
+      - План внедрения: 00-implementation/01_IMPLEMENTATION_PLAN.md
+      - Форма обратной связи: 00-implementation/02_FEEDBACK_TEMPLATE.md
+      - Журнал изменений по результатам проверки: 00-implementation/03_CHANGELOG_0.1_REVIEW.md
+
+  - Устав:
+      - О разделе: 01-charter/00_README.md
+      - Устав клана: 01-charter/01_CLAN_CHARTER.md
+
   - Организация:
-      - Устав: 01-charter/01_CLAN_CHARTER.md
-      - Структура: 02-organization/01_CLAN_STRUCTURE.md
-      - Роли: 02-organization/02_ROLES_AND_RESPONSIBILITIES.md
+      - О разделе: 02-organization/00_README.md
+      - Структура клана: 02-organization/01_CLAN_STRUCTURE.md
+      - Роли и обязанности: 02-organization/02_ROLES_AND_RESPONSIBILITIES.md
+      - Состав и ротация: 02-organization/03_ROSTER_AND_ROTATION.md
 
   - SOP:
+      - О разделе: 03-sop/00_README.md
       - Коммуникация: 03-sop/SOP-001_COMMUNICATION_PROTOCOL.md
-      - Начало матча: 03-sop/SOP-002_MATCH_START_PROTOCOL.md
+      - Подготовка к матчу: 03-sop/SOP-002_MATCH_START_PROTOCOL.md
       - Работа с точками: 03-sop/SOP-003_POINT_CONTROL_PROTOCOL.md
-      - Усиление: 03-sop/SOP-004_REINFORCEMENT_PROTOCOL.md
+      - Усиление точки: 03-sop/SOP-004_REINFORCEMENT_PROTOCOL.md
+      - Работа ралик-отряда: 03-sop/SOP-005_RALLY_PROTOCOL.md
+
+  - Руководства:
+      - О разделе: 04-guides/00_README.md
 
   - Обучение:
+      - О разделе: 05-training/00_README.md
       - План тренировок: 05-training/01_TRAINING_PLAN_PHASE_1.md
-      - AAR: 06-analysis/01_AFTER_ACTION_REVIEW.md
+      - Руководство мастера: 05-training/02_MASTER_PLAYER_GUIDE.md
+      - Руководство напарника мастера: 05-training/03_MASTER_PARTNER_GUIDE.md
 
-  - Внедрение:
-      - План: 00-implementation/01_IMPLEMENTATION_PLAN.md
+  - Анализ:
+      - О разделе: 06-analysis/00_README.md
+      - Разбор после матча (AAR): 06-analysis/01_AFTER_ACTION_REVIEW.md
+
+  - Межсезонье:
+      - О разделе: 07-offseason/00_README.md
+
+  - Приложения:
+      - О разделе: 08-appendix/00_README.md
+
+  - Аудит:
+      - Аудит версии 0.1: reviews/AUDIT_0.1.md
