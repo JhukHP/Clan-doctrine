@@ -179,10 +179,10 @@
 
 # Связанные документы
 
-- Структура клана
-- Роли и обязанности
-- Протокол коммуникации
-- Система ротации
+- [Структура клана](../02-organization/01_CLAN_STRUCTURE.md)
+- [Роли и обязанности](../02-organization/02_ROLES_AND_RESPONSIBILITIES.md)
+- [SOP-001 — Протокол коммуникации](SOP-001_COMMUNICATION_PROTOCOL.md)
+- [Состав и ротация](../02-organization/03_ROSTER_AND_ROTATION.md)
 
 ---
 

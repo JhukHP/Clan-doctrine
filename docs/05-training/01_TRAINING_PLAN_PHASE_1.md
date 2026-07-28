@@ -331,10 +331,10 @@
 
 # Связанные документы
 
-- Структура клана
-- Роли и обязанности
-- SOP коммуникации
-- AAR
+- [Структура клана](../02-organization/01_CLAN_STRUCTURE.md)
+- [Роли и обязанности](../02-organization/02_ROLES_AND_RESPONSIBILITIES.md)
+- [SOP-001 — Протокол коммуникации](../03-sop/SOP-001_COMMUNICATION_PROTOCOL.md)
+- [Разбор после матча (AAR)](../06-analysis/01_AFTER_ACTION_REVIEW.md)
 
 ---
 

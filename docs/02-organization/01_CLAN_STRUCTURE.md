@@ -329,11 +329,10 @@
 
 # Связанные документы
 
-- Clan Charter
-- Roles and Responsibilities
-- Reserve System
-- Rotation System
-- Training Framework
+- [Устав клана](../01-charter/01_CLAN_CHARTER.md)
+- [Роли и обязанности](02_ROLES_AND_RESPONSIBILITIES.md)
+- [Состав и ротация](03_ROSTER_AND_ROTATION.md)
+- [План тренировок](../05-training/01_TRAINING_PLAN_PHASE_1.md)
 
 ---
 

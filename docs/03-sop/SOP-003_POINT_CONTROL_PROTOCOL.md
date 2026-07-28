@@ -230,10 +230,10 @@
 
 # Связанные документы
 
-- SOP-001 Протокол коммуникации
-- SOP-002 Подготовка к матчу
-- Структура клана
-- Роли и обязанности
+- [SOP-001 — Протокол коммуникации](SOP-001_COMMUNICATION_PROTOCOL.md)
+- [SOP-002 — Подготовка к матчу](SOP-002_MATCH_START_PROTOCOL.md)
+- [Структура клана](../02-organization/01_CLAN_STRUCTURE.md)
+- [Роли и обязанности](../02-organization/02_ROLES_AND_RESPONSIBILITIES.md)
 
 ---
 
