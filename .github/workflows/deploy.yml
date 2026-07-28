@@ -38,7 +38,7 @@ jobs:
           pip install mkdocs-material
 
       - name: Build documentation
-        run: mkdocs build
+        run: python -m mkdocs serve
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
