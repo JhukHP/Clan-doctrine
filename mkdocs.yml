@@ -9,6 +9,10 @@ theme:
   language: ru
   features:
     - navigation.indexes
+    - navigation.tracking
+    - navigation.footer
+    - navigation.top
+    - toc.follow
   palette:
     scheme: slate
 
